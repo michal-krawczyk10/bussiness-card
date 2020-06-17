@@ -1,2 +1,2 @@
-# First Figma attempts
+# First Figma attempt
 ## Nothing special
